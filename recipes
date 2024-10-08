@@ -1,1 +1,34 @@
+{
+  "name": "Dirty Shirley",
+  "ingredients": [
+    {
+      "ingredient": "Vodka",
+      "amount": "2 oz"
+    },
+    {
+      "ingredient": "Grenadine",
+      "amount": "1 oz"
+    },
+    {
+      "ingredient": "Sprite",
+      "amount": "to top"
+    },
+    {
+      "ingredient": "Maraschino cherry",
+      "amount": "1"
+    },
+    {
+      "ingredient": "Ice",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Fill a glass with ice.",
+    "Pour 2 oz of vodka over the ice.",
+    "Add 1 oz of grenadine.",
+    "Top off with Sprite.",
+    "Garnish with a maraschino cherry.",
+    "Serve and enjoy!"
+  ]
+}
 

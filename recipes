@@ -1,54 +1,199 @@
 {
   "recipes" : [
-      {
-          "name": "Dirty Shirley",
-          "ingredients": [
-            {
-              "alcohol": [
-                {"ingredient": "Vodka", "amount": "2 oz"}
-              ],
-              "mixer" : [
-                {"ingredient": "Grenadine", "amount": "1 oz"},
-                {"ingredient": "Sprite", "amount": "to top"},
-                {"ingredient": "Maraschino cherry", "amount": "1"},
-                {"ingredient": "Ice", "amount": "as needed"}
-              ],
-            },
+    {
+      "name": "EXAMPLE DRINK NAME TO COPY AND PASTE",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "XXXX", "amount": "XX oz"}
           ],
-          "instructions": [
-            "Fill a glass with ice.",
-            "Pour 2 oz of vodka over the ice.",
-            "Add 1 oz of grenadine.",
-            "Top off with Sprite.",
-            "Garnish with a maraschino cherry.",
-            "Serve and enjoy!"
+          "mixer" : [
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"}
           ]
-      },
-      
-      {
-          "name": "NAME,
-              "ingredients": [
-                {
-                  "alcohol": [
-                    {"ingredient": "XXXX", "amount": "XX oz"}
-                  ],
-                  "mixer" : [
-                    {"ingredient": "Grenadine", "amount": "1 oz"},
-                    {"ingredient": "Sprite", "amount": "to top"},
-                    {"ingredient": "Maraschino cherry", "amount": "1"},
-                    {"ingredient": "Ice", "amount": "as needed"}
-                  ],
-                },
-              ],
-              "instructions": [
-                "Fill a glass with ice.",
-                "Pour 2 oz of vodka over the ice.",
-                "Add 1 oz of grenadine.",
-                "Top off with Sprite.",
-                "Garnish with a maraschino cherry.",
-                "Serve and enjoy!"
-              ]
-          }
+        }
+      ],
+      "instructions": [
+        "Do XXXX",
+        "Then XXXXXX"
+      ], 
+      "link": "XXXXXX",
+      "imageName": "XXXXX"
+    },
+    {
+      "name": "Dirty Shirley",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Vodka", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Grenadine", "amount": "1 oz"},
+            {"ingredient": "Sprite", "amount": "to top"},
+            {"ingredient": "Maraschino cherry", "amount": "1"},
+            {"ingredient": "Ice", "amount": "as needed"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Fill a glass with ice.",
+        "Pour 2 oz of vodka over the ice.",
+        "Add 1 oz of grenadine.",
+        "Top off with Sprite.",
+        "Garnish with a maraschino cherry.",
+        "Serve and enjoy!"
+      ], 
+      "link": "https://www.culinaryhill.com/dirty-shirley-cocktail/#wprm-recipe-container-62852",
+      "imageName": "dirtyShirley.webp"
+    },
+    
+    {
+      "name": "Old Fashioned",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Bourbon", "amount": "2 oz"}, 
+            {"ingredient": "Bitters", "amount": "3 dashes"}
+          ],
+          "mixer" : [
+            {"ingredient": "Simple syrup", "amount": "1-2 teaspoons"},
+            {"ingredient": "Orange peel", "amount": "for garnish(optional)"},
+            {"ingredient": "Maraschino cherry", "amount": "1-2 for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Combine simple syrup, bitters, and whiskey in",
+        "an Old Fashioned glass. Stir well.",
+        "Add 1 to 2 large ice cubes and stir a few more",
+        "times to chill.",
+        "Garnish with an orange peel and cherry."
+      ], 
+      "link": "https://www.inspiredtaste.net/26965/old-fashioned-recipe/",
+      "imageName": "oldFashioned.jpg"
+    },
+    {
+      "name": "Manhattan",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Rye Whiskey", "amount": "2 oz"},
+            {"ingredient": "Sweet Vermouth", "amount": "1 oz"},
+            {"ingredient":"Bitters", "amount":"2 dashes"}
+          ],
+          "mixer" : [
+            {"ingredient": "Brandied cherry", "amount": "1 cherry for garnish(optional)"},
+            {"ingredient":"Lemon twist", "amount":"1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the rye whiskey, sweet vermouth, and bitters",
+        "into a mixing glass with ice and stir until well-chilled.",
+        "Strain into a chilled Nick & Nora or coupe glass.",
+        "Garnish with a brandied cherry (or a lemon twist, if preferred)."
+      ], 
+      "link": "https://www.liquor.com/recipes/manhattan-2/",
+      "imageName": "manhattan.jpg"
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "1 oz"},
+            {"ingredient": "Campari", "amount": "1 oz"},
+            {"ingredient": "Sweet Vermouth", "amount": "1 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Orange peel", "amount": "1 peel for garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, Campari and sweet vermouth to a",
+        "mixing glass filled with ice, and stir until well-chilled.",
+        "Strain into a rocks glass over a large ice cube.",
+        "Garnish with an orange peel."
+      ], 
+      "link": "https://www.liquor.com/recipes/negroni/",
+      "imageName": "negroni.jpg"
+    },
+    {
+      "name": "Dry Martini",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "2 1/2 oz"},
+            {"ingredient": "Dry Vermouth", "amount": "1/2 oz"},
+            {"ingredient": "Orange Bitters", "amount": "1 Dash"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon twist", "amount": "1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, dry vermouth, and orange bitters into",
+        "a mixing glass with ice and stir until very cold.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a lemon twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/dry-martini/",
+      "imageName": "dryMartini.jpg"
+    },
+    {
+      "name": "Daiquiri",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Light Rum", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lime juice", "amount": "1 oz"},
+            {"ingredient": "Demerara sugar syrup", "amount":"3/4 oz"},
+            {"ingredient": "Lime twist", "amount":"1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the rum, lime juice and demerara sugar syrup",
+        "to a shaker with ice, and shake until well-chilled.",
+        "Double strain through fine mesh strainer into a chilled coupe.",
+        "Garnish with a lime twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/daiquiri/",
+      "imageName": "daiquiri.jpg"
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Bourbon", "amount": "2 oz"},
+            {"ingredient": "Bitters", "amount":"3-4 drops for garnish (optional)"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon juice", "amount": "3/4 oz"},
+            {"ingredient": "Simple syrup", "amount":"1/2 oz"},
+            {"ingredient": "Egg white", "amount":"1/2 oz (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add bourbon, lemon juice, simple syrup and egg white,",
+        "if using, to a shaker, and dry-shake for 30 seconds",
+        "without ice.",
+        "Add ice and shake again for 15–20 seconds, until well-chilled.",
+        "Strain into a rocks glass over fresh ice, or into a",
+        "coupe without ice.",
+        "Garnish with 3–4 drops of Angostura bitters."
+      ], 
+      "link": "https://www.liquor.com/recipes/whiskey-sour/",
+      "imageName": "whiskeySour.jpg"
+    }
   ]
 }
 

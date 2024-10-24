@@ -1,54 +1,404 @@
 {
   "recipes" : [
-      {
-          "name": "Dirty Shirley",
-          "ingredients": [
-            {
-              "alcohol": [
-                {"ingredient": "Vodka", "amount": "2 oz"}
-              ],
-              "mixer" : [
-                {"ingredient": "Grenadine", "amount": "1 oz"},
-                {"ingredient": "Sprite", "amount": "to top"},
-                {"ingredient": "Maraschino cherry", "amount": "1"},
-                {"ingredient": "Ice", "amount": "as needed"}
-              ],
-            },
+    {
+      "name": "EXAMPLE DRINK NAME TO COPY AND PASTE",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "XXXX", "amount": "XX oz"}
           ],
-          "instructions": [
-            "Fill a glass with ice.",
-            "Pour 2 oz of vodka over the ice.",
-            "Add 1 oz of grenadine.",
-            "Top off with Sprite.",
-            "Garnish with a maraschino cherry.",
-            "Serve and enjoy!"
+          "mixer" : [
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"},
+            {"ingredient": "XXXXX", "amount": "XX oz"}
           ]
-      },
-      
-      {
-          "name": "NAME,
-              "ingredients": [
-                {
-                  "alcohol": [
-                    {"ingredient": "XXXX", "amount": "XX oz"}
-                  ],
-                  "mixer" : [
-                    {"ingredient": "Grenadine", "amount": "1 oz"},
-                    {"ingredient": "Sprite", "amount": "to top"},
-                    {"ingredient": "Maraschino cherry", "amount": "1"},
-                    {"ingredient": "Ice", "amount": "as needed"}
-                  ],
-                },
-              ],
-              "instructions": [
-                "Fill a glass with ice.",
-                "Pour 2 oz of vodka over the ice.",
-                "Add 1 oz of grenadine.",
-                "Top off with Sprite.",
-                "Garnish with a maraschino cherry.",
-                "Serve and enjoy!"
-              ]
-          }
+        }
+      ],
+      "instructions": [
+        "Do XXXX",
+        "Then XXXXXX"
+      ], 
+      "link": "XXXXXX",
+      "imageName": "XXXXX"
+    },
+    {
+      "name": "Dirty Shirley",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Vodka", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Grenadine", "amount": "1 oz"},
+            {"ingredient": "Sprite", "amount": "to top"},
+            {"ingredient": "Maraschino cherry", "amount": "1"},
+            {"ingredient": "Ice", "amount": "as needed"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Fill a glass with ice.",
+        "Pour 2 oz of vodka over the ice.",
+        "Add 1 oz of grenadine.",
+        "Top off with Sprite.",
+        "Garnish with a maraschino cherry.",
+        "Serve and enjoy!"
+      ], 
+      "link": "https://www.culinaryhill.com/dirty-shirley-cocktail/#wprm-recipe-container-62852",
+      "imageName": "dirtyShirley.webp"
+    },
+    
+    {
+      "name": "Old Fashioned",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Bourbon", "amount": "2 oz"}, 
+            {"ingredient": "Bitters", "amount": "3 dashes"}
+          ],
+          "mixer" : [
+            {"ingredient": "Simple syrup", "amount": "1-2 teaspoons"},
+            {"ingredient": "Orange peel", "amount": "for garnish(optional)"},
+            {"ingredient": "Maraschino cherry", "amount": "1-2 for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Combine simple syrup, bitters, and whiskey in",
+        "an Old Fashioned glass. Stir well.",
+        "Add 1 to 2 large ice cubes and stir a few more",
+        "times to chill.",
+        "Garnish with an orange peel and cherry."
+      ], 
+      "link": "https://www.inspiredtaste.net/26965/old-fashioned-recipe/",
+      "imageName": "oldFashioned.jpg"
+    },
+    {
+      "name": "Manhattan",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Rye Whiskey", "amount": "2 oz"},
+            {"ingredient": "Sweet Vermouth", "amount": "1 oz"},
+            {"ingredient":"Bitters", "amount":"2 dashes"}
+          ],
+          "mixer" : [
+            {"ingredient": "Brandied cherry", "amount": "1 cherry for garnish(optional)"},
+            {"ingredient":"Lemon twist", "amount":"1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the rye whiskey, sweet vermouth, and bitters",
+        "into a mixing glass with ice and stir until well-chilled.",
+        "Strain into a chilled Nick & Nora or coupe glass.",
+        "Garnish with a brandied cherry (or a lemon twist, if preferred)."
+      ], 
+      "link": "https://www.liquor.com/recipes/manhattan-2/",
+      "imageName": "manhattan.jpg"
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "1 oz"},
+            {"ingredient": "Campari", "amount": "1 oz"},
+            {"ingredient": "Sweet Vermouth", "amount": "1 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Orange peel", "amount": "1 peel for garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, Campari and sweet vermouth to a",
+        "mixing glass filled with ice, and stir until well-chilled.",
+        "Strain into a rocks glass over a large ice cube.",
+        "Garnish with an orange peel."
+      ], 
+      "link": "https://www.liquor.com/recipes/negroni/",
+      "imageName": "negroni.jpg"
+    },
+    {
+      "name": "Dry Martini",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "2 1/2 oz"},
+            {"ingredient": "Dry Vermouth", "amount": "1/2 oz"},
+            {"ingredient": "Orange Bitters", "amount": "1 Dash"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon twist", "amount": "1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, dry vermouth, and orange bitters into",
+        "a mixing glass with ice and stir until very cold.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a lemon twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/dry-martini/",
+      "imageName": "dryMartini.jpg"
+    },
+    {
+      "name": "Daiquiri",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Light Rum", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lime juice", "amount": "1 oz"},
+            {"ingredient": "Demerara sugar syrup", "amount":"3/4 oz"},
+            {"ingredient": "Lime twist", "amount":"1 twist for garnish(optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the rum, lime juice and demerara sugar syrup",
+        "to a shaker with ice, and shake until well-chilled.",
+        "Double strain through fine mesh strainer into a chilled coupe.",
+        "Garnish with a lime twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/daiquiri/",
+      "imageName": "daiquiri.jpg"
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Bourbon", "amount": "2 oz"},
+            {"ingredient": "Bitters", "amount":"3-4 drops for garnish (optional)"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon juice", "amount": "3/4 oz"},
+            {"ingredient": "Simple syrup", "amount":"1/2 oz"},
+            {"ingredient": "Egg white", "amount":"1/2 oz (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add bourbon, lemon juice, simple syrup and egg white,",
+        "if using, to a shaker, and dry-shake for 30 seconds",
+        "without ice.",
+        "Add ice and shake again for 15–20 seconds, until well-chilled.",
+        "Strain into a rocks glass over fresh ice, or into a",
+        "coupe without ice.",
+        "Garnish with 3–4 drops of Angostura bitters."
+      ], 
+      "link": "https://www.liquor.com/recipes/whiskey-sour/",
+      "imageName": "whiskeySour.jpg"
+    },
+    {
+      "name": "Tom Collins",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon juice", "amount": "1 oz"},
+            {"ingredient": "Simple syrup", "amount": "1/2 oz"},
+            {"ingredient": "Club soda", "amount": "to top"},
+            {"ingredient": "Lemon wheel", "amount": "garnish (optional)"},
+            {"ingredient": "Maraschino cherry", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, lemon juice and simple syrup to a Collins glass.",
+        "Fill with ice, top with club soda and stir.",
+        "Garnish with a lemon wheel and maraschino cherry (optional)."
+      ], 
+      "link": "https://www.liquor.com/recipes/tom-collins-2/",
+      "imageName": "tomColins.pg"
+    },
+    {
+      "name": "Sazerac",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Absinthe", "amount": "to rinse"},
+            {"ingredient": "Bitters", "amount": "4 dashes"},
+            {"ingredient": "Rye Whiskey", "amount": "2 1/2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Sugar cube", "amount": "1 cube"},
+            {"ingredient": "Cold water", "amount": "1/2 teaspoon"},
+            {"ingredient": "Lemon peel", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Rinse a chilled rocks glass with absinthe, ",
+        "discarding any excess, and set aside.",
+        "In a mixing glass, muddle the sugar cube,", 
+        "water and the Peychaud’s bitters.",
+        "Add the rye whiskey, fill the mixing glass",
+        "with ice and stir 15­–20 seconds, until well-chilled.",
+        "Strain into the prepared glass.",
+        "Twist the lemon peel over the drink’s surface to", 
+        "express the peel’s oils, then garnish with the peel."
+      ], 
+      "link": "https://www.liquor.com/recipes/sazerac/",
+      "imageName": "sazerac.jpg"
+    },
+    {
+      "name": "Paloma",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Tequila", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lime juice", "amount": "1/2 oz"},
+            {"ingredient": "Grapefruit soda", "amount": "4 oz"},
+            {"ingredient": "Salt", "amount": "1 pinch"},
+            {"ingredient": "Lime wheel", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the tequila, lime juice, and pinch of",
+        "salt to the glass, and fill with ice.",
+        "TTop with grapefruit soda, and stir briefly",
+        "and gently to combine.",
+        "Garnish with a lime wheel."
+      ], 
+      "link": "https://www.liquor.com/recipes/paloma/",
+      "imageName": "paloma.jpg"
+    },
+    {
+      "name": "Moscow Mule",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Vodka", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lime juice", "amount": "1/2 oz"},
+            {"ingredient": "Ginger beer", "amount": "3 oz"},
+            {"ingredient": "Lime wheel", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Fill a Moscow Mule mug (or highball glass) with ice,", 
+        "then add the vodka and lime juice.",
+        "Top with the ginger beer.",
+        "Garnish with a lime wheel."
+      ], 
+      "link": "https://www.liquor.com/recipes/moscow-mule-cocktail-recipe/",
+      "imageName": "moscowMule.jpg"
+    },
+    {
+      "name": "Sidecar",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Cognac", "amount": "1 1/2 oz"},
+            {"ingredient": "Orange Liqueur", "amount":"3/4 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon juice", "amount": "3/4 oz"},
+            {"ingredient": "Orange twist", "amount": "1 twist for garnish(optional)"},
+            {"ingredient": "Sugar rim", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Coat the rim of a coupe glass with sugar,",
+        "if desired, and set aside.",
+        "Add the cognac, orange liqueur and lemon juice", 
+        "to a shaker with ice and shake until well-chilled.",
+        "Strain into the prepared glass.",
+        "Garnish with an orange twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/sidecar/",
+      "imageName": "sidecar.jpg"
+    },
+    {
+      "name": "Martinez",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Gin", "amount": "1 1/2 oz"},
+            {"ingredient": "Sweet Vermouth", "amount": "1 1/2 oz"},
+            {"ingredient": "Maraschino liqueur", "amount": "1/4 oz"},
+            {"ingredient": "Bitters", "amount": "2 dashes"}
+          ],
+          "mixer" : [
+            {"ingredient": "Orange twist", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add the gin, sweet vermouth, maraschino liqueur,",
+        "and bitters into a mixing glass with ice and stir",
+        "until well-chilled.",
+        "Strain into a chilled coupe glass.",
+        "Garnish with an orange twist."
+      ], 
+      "link": "https://www.liquor.com/recipes/martinez/",
+      "imageName": "martinez.jpg"
+    },
+    {
+      "name": "Pimm's Cup",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Pimm’s No. 1", "amount": "2 oz"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lemon juice", "amount": "1/2 oz"},
+            {"ingredient": "Ginger ale", "amount": "to top"},
+            {"ingredient": "Cucumber slice", "amount": "garnish (optional)"},
+            {"ingredient": "Mint sprig", "amount": "garnish (optional)"},
+            {"ingredient": "Strawberry", "amount": "garnish (optional)"},
+            {"ingredient": "Lemon wheel", "amount": "garnish (optional)"},
+            {"ingredient": "Orange wheel", "amount": "garnish (optional)"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add Pimm’s No. 1 and lemon juice into a highball",
+        "glass over ice, then top with ginger ale and stir",
+        "briefly to combine.",
+        "Garnish with a cucumber slice, mint sprig, skewered", 
+        "strawberry and optional lemon and orange wheels."
+      ], 
+      "link": "https://www.liquor.com/recipes/pimms-cup/",
+      "imageName": "pimmsCup.jpg"
+    },
+    {
+      "name": "Pisco Sour",
+      "ingredients": [
+        {
+          "alcohol": [
+            {"ingredient": "Pisco", "amount": "2 oz"},
+            {"ingredient": "Bitters", "amount": "3-5 drops for garnish (optional)"}
+          ],
+          "mixer" : [
+            {"ingredient": "Lime juice", "amount": "1 oz"},
+            {"ingredient": "Simple syrup", "amount": "1/2 oz"},
+            {"ingredient": "Egg white", "amount": "1/2 oz"}
+          ]
+        }
+      ],
+      "instructions": [
+        "Add pisco, lime juice, simple syrup and egg white into a shaker and dry-shake (without ice) vigorously",
+        "Add ice and shake again until well-chilled.",
+        "Strain into a chilled Nick & Nora glass. (Alternatively, you can strain it into a rocks glass over fresh ice.)",
+        "Garnish with 3 to 5 drops of Angostura bitters. Using a straw, toothpick or similar implement, swirl the bitters into a simple design, if desired."
+      ], 
+      "link": "https://www.liquor.com/recipes/pisco-sour/",
+      "imageName": "piscoSour"
+    }
   ]
 }
 
